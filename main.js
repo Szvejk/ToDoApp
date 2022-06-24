@@ -1,3 +1,21 @@
+const form = document.querySelector('form');
+const li = document.querySelector('ul');
+const taskNumber = document.querySelector('h1 span');
+const listItems = document.querySelector('form');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 const input = document.querySelector('input');
 const ul = document.querySelector('ul');
